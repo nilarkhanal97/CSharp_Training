@@ -1,0 +1,7 @@
+C:\Tutorial2\bin\Debug\Tutorial2.exe.config
+C:\Tutorial2\bin\Debug\Tutorial2.exe
+C:\Tutorial2\bin\Debug\Tutorial2.pdb
+C:\Tutorial2\obj\Debug\Tutorial2.csproj.AssemblyReference.cache
+C:\Tutorial2\obj\Debug\Tutorial2.csproj.CoreCompileInputs.cache
+C:\Tutorial2\obj\Debug\Tutorial2.exe
+C:\Tutorial2\obj\Debug\Tutorial2.pdb
