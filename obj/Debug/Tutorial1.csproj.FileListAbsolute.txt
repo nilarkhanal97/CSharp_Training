@@ -1,6 +1,7 @@
 C:\Tutorial1\bin\Debug\Tutorial1.exe.config
 C:\Tutorial1\bin\Debug\Tutorial1.exe
 C:\Tutorial1\bin\Debug\Tutorial1.pdb
+C:\Tutorial1\obj\Debug\Tutorial1.csproj.AssemblyReference.cache
 C:\Tutorial1\obj\Debug\Tutorial1.csproj.CoreCompileInputs.cache
 C:\Tutorial1\obj\Debug\Tutorial1.exe
 C:\Tutorial1\obj\Debug\Tutorial1.pdb

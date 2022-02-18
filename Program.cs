@@ -15,20 +15,20 @@ namespace Tutorial1
             for (i = 0; i <= r; i++)
             {
                 for (j = 1; j <= r - i; j++)
-                    Console.WriteLine(" ");
+                    Console.Write(" ");
                 for (j = 1; j <= 2 * i - 1; j++)
-                    Console.WriteLine("*");
-                Console.WriteLine("\n");
+                    Console.Write("*");
+                Console.Write("\n");
             }
-
             for (i = r - 1; i >= 1; i--)
             {
                 for (j = 1; j <= r - i; j++)
-                    Console.WriteLine(" ");
+                    Console.Write(" ");
                 for (j = 1; j <= 2 * i - 1; j++)
-                    Console.WriteLine("*");
-                Console.WriteLine("\n");
+                    Console.Write("*");
+                Console.Write("\n");
             }
+            Console.ReadLine();
         }
     }
 }
