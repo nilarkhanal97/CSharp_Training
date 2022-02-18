@@ -1,0 +1,7 @@
+C:\Tutorial3\bin\Debug\Tutorial3.exe.config
+C:\Tutorial3\bin\Debug\Tutorial3.exe
+C:\Tutorial3\bin\Debug\Tutorial3.pdb
+C:\Tutorial3\obj\Debug\Tutorial3.csproj.AssemblyReference.cache
+C:\Tutorial3\obj\Debug\Tutorial3.csproj.CoreCompileInputs.cache
+C:\Tutorial3\obj\Debug\Tutorial3.exe
+C:\Tutorial3\obj\Debug\Tutorial3.pdb
