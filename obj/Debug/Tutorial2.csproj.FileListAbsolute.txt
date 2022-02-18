@@ -5,3 +5,10 @@ C:\Tutorial2\obj\Debug\Tutorial2.csproj.AssemblyReference.cache
 C:\Tutorial2\obj\Debug\Tutorial2.csproj.CoreCompileInputs.cache
 C:\Tutorial2\obj\Debug\Tutorial2.exe
 C:\Tutorial2\obj\Debug\Tutorial2.pdb
+C:\CSharp_Training\obj\Debug\Tutorial2.csproj.AssemblyReference.cache
+C:\CSharp_Training\obj\Debug\Tutorial2.csproj.CoreCompileInputs.cache
+C:\CSharp_Training\obj\Debug\Tutorial2.exe
+C:\CSharp_Training\obj\Debug\Tutorial2.pdb
+C:\CSharp_Training\bin\Debug\Tutorial2.exe.config
+C:\CSharp_Training\bin\Debug\Tutorial2.exe
+C:\CSharp_Training\bin\Debug\Tutorial2.pdb
