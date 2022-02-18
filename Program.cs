@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Tutorial1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, j, r;
+            r = 6;
+            for (i = 0; i <= r; i++)
+            {
+                for (j = 1; j <= r - i; j++)
+                    Console.WriteLine(" ");
+                for (j = 1; j <= 2 * i - 1; j++)
+                    Console.WriteLine("*");
+                Console.WriteLine("\n");
+            }
+
+            for (i = r - 1; i >= 1; i--)
+            {
+                for (j = 1; j <= r - i; j++)
+                    Console.WriteLine(" ");
+                for (j = 1; j <= 2 * i - 1; j++)
+                    Console.WriteLine("*");
+                Console.WriteLine("\n");
+            }
+        }
+    }
+}
