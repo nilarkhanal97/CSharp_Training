@@ -10,7 +10,7 @@ namespace Tutorial5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n Tutorial5 \n Use db_pets \n SELECT dogs_name, cats_name from tbl_Dogs, tbs_Cats");
+            Console.WriteLine("\n Tutorial5 ");
              Console.ReadLine();
         }
     }

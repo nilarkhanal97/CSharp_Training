@@ -1,2 +1,3 @@
-Select dogs_name, cats_name from tbl_Dogs
-full join tbl_Cats on tbl_Dogs.id= tbl_Cats.id
+(SELECT dog_name as pet_name FROM tbl_Dogs )
+UNION 
+(SELECT cat_name as pet_name FROM tbl_Cats )
