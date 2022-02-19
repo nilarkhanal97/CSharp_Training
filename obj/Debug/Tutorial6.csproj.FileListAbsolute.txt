@@ -1,0 +1,7 @@
+C:\Tutorial6\bin\Debug\Tutorial6.exe.config
+C:\Tutorial6\bin\Debug\Tutorial6.exe
+C:\Tutorial6\bin\Debug\Tutorial6.pdb
+C:\Tutorial6\obj\Debug\Tutorial6.csproj.AssemblyReference.cache
+C:\Tutorial6\obj\Debug\Tutorial6.csproj.CoreCompileInputs.cache
+C:\Tutorial6\obj\Debug\Tutorial6.exe
+C:\Tutorial6\obj\Debug\Tutorial6.pdb
